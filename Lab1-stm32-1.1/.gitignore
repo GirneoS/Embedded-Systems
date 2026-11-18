@@ -1,0 +1,8 @@
+.venv/
+.venv-gui/
+__pycache__/
+*.pyc
+build-compass/
+logs/
+.hardware-backups/
+calibration_profiles/

@@ -2030,3 +2030,760 @@
 2026-10-08 11:31:18,587 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
 2026-10-08 11:31:18,591 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
 2026-10-08 11:31:18,595 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-10-08 12:13:36,992 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-10-08 12:13:50,060 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-10-08 12:13:53,967 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-10-08 12:13:56,574 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-10-08 12:16:23,616 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 501251672 Bytes (583008256)
+2026-10-08 12:16:25,191 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 392425224 Bytes (583008256)
+2026-10-08 12:16:26,916 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 494400680 Bytes (583008256)
+2026-10-08 12:16:27,437 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8
+2026-10-08 12:16:27,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2026-10-08 12:16:27,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2026-10-08 12:16:27,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2026-10-08 12:16:27,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: USART
+2026-10-08 12:16:27,444 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2026-10-08 12:16:27,445 [INFO] CodeGenerator:681 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db/
+2026-10-08 12:16:27,729 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/license.tmp_save
+2026-10-08 12:16:27,848 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/license.tmp
+2026-10-08 12:16:27,867 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/gpio.c_save
+2026-10-08 12:16:27,943 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/gpio.c
+2026-10-08 12:16:27,945 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/gpio.h_save
+2026-10-08 12:16:28,001 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/gpio.h
+2026-10-08 12:16:28,103 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/tim.c_save
+2026-10-08 12:16:28,232 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/tim.c
+2026-10-08 12:16:28,234 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/tim.h_save
+2026-10-08 12:16:28,289 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/tim.h
+2026-10-08 12:16:28,294 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/usart.c_save
+2026-10-08 12:16:28,392 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/usart.c
+2026-10-08 12:16:28,394 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/usart.h_save
+2026-10-08 12:16:28,466 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/usart.h
+2026-10-08 12:16:28,474 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_it.c_save
+2026-10-08 12:16:28,632 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_it.c
+2026-10-08 12:16:28,643 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_it.h_save
+2026-10-08 12:16:28,692 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_it.h
+2026-10-08 12:16:28,701 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_hal_msp.c_save
+2026-10-08 12:16:28,768 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_hal_msp.c
+2026-10-08 12:16:28,769 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/system.tmp_save
+2026-10-08 12:16:28,817 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/system.tmp
+2026-10-08 12:16:28,822 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_hal_conf.h_save
+2026-10-08 12:16:28,890 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_hal_conf.h
+2026-10-08 12:16:28,971 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/main.h_save
+2026-10-08 12:16:29,030 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/main.h
+2026-10-08 12:16:29,032 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/main.c_save
+2026-10-08 12:16:29,139 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/main.c
+2026-10-08 12:16:29,699 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 69mS.
+2026-10-08 12:16:29,709 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2026-10-08 12:16:30,039 [INFO] ConfigFileManager:1287 - The Die is : DIE419
+2026-10-08 12:16:32,157 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2447mS.
+2026-10-08 12:16:32,161 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2026-10-08 12:16:32,163 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2026-11-11 21:17:11,380 [INFO] Activator:177 - 
+
+
+2026-11-11 21:17:11,382 [INFO] Activator:178 - !SESSION log4j initialized
+2026-11-11 21:17:18,342 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2026-11-11 21:17:25,662 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2026-11-12 10:21:49,031 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2026-11-12 10:21:49,144 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913
+2026-11-12 10:21:49,154 [INFO] DbMcusXml:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//mcu/
+2026-11-12 10:21:49,154 [INFO] ApiDb:260 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//plugins/boardmanager/
+2026-11-12 10:21:49,156 [WARN] ApiDb:245 - Overriding images path with different value:  => /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//plugins/mcufinder/images/
+2026-11-12 10:21:49,173 [INFO] ApiDb:226 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/
+2026-11-12 10:21:49,174 [INFO] DbMcusAds:119 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/
+2026-11-12 10:21:49,266 [INFO] CrossReferenceDbSqlite:196 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/cs/
+2026-11-12 10:21:49,407 [INFO] RulesReader:57 - Compatibility file has been processed (281 Rules)
+2026-11-12 10:21:49,473 [INFO] DbMcusXml:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//mcu/
+2026-11-12 10:21:49,474 [INFO] ApiDb:260 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//plugins/boardmanager/
+2026-11-12 10:21:49,477 [INFO] ApiDb:247 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//plugins/mcufinder/images/
+2026-11-12 10:21:49,477 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,477 [INFO] ApiDb:226 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/
+2026-11-12 10:21:49,477 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,478 [INFO] DbMcusAds:119 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/
+2026-11-12 10:21:49,479 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,479 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,480 [INFO] CrossReferenceDbSqlite:196 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/cs/
+2026-11-12 10:21:49,561 [INFO] MainPanel:230 - HeapMemory: 268435456
+2026-11-12 10:21:49,648 [INFO] DbMcusXml:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//mcu/
+2026-11-12 10:21:49,649 [INFO] ApiDb:260 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//plugins/boardmanager/
+2026-11-12 10:21:49,649 [INFO] ApiDb:247 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db//plugins/mcufinder/images/
+2026-11-12 10:21:49,650 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,650 [INFO] ApiDb:226 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/
+2026-11-12 10:21:49,651 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,651 [INFO] DbMcusAds:119 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/
+2026-11-12 10:21:49,651 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,651 [WARN] DbFile:35 - Overriding database path with different value: /Users/nozhegoff/.stmcufinder/plugins/mcufinder/ => /Users/nozhegoff/.stmcufinder/plugins/mcufinder
+2026-11-12 10:21:49,651 [INFO] CrossReferenceDbSqlite:196 - Set database path to: /Users/nozhegoff/.stmcufinder/plugins/mcufinder//mcu/cs/
+2026-11-12 10:21:49,669 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913
+2026-11-12 10:21:49,672 [INFO] PluginManage:188 - Search for loadable plugins [exclusion list=, ]
+2026-11-12 10:21:49,673 [INFO] PluginManage:302 - Check plugin analytics
+2026-11-12 10:21:49,768 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2026-11-12 10:22:24,880 [INFO] AnalyticsPlugin:257 - Accepted Software Licenses: STM32CubeMX.6.18.1
+2026-11-12 10:22:24,881 [INFO] AnalyticsPlugin:259 - Accepted CMSIS Pack Licenses: 
+2026-11-12 10:22:24,881 [INFO] AnalyticsPlugin:261 - Accepted Firmware Licenses: FW.F4.1.27.0
+2026-11-12 10:22:24,905 [INFO] PluginManage:352 - Loaded plugin analytics (category:tool,tabindex:-1)
+2026-11-12 10:22:24,908 [INFO] PluginManage:302 - Check plugin clock
+2026-11-12 10:22:24,930 [INFO] PluginManage:352 - Loaded plugin clock (category:base,tabindex:2)
+2026-11-12 10:22:24,931 [INFO] PluginManage:302 - Check plugin ddr
+2026-11-12 10:22:24,934 [INFO] PluginManage:352 - Loaded plugin ddr (category:tool,tabindex:6)
+2026-11-12 10:22:24,934 [INFO] PluginManage:302 - Check plugin filemanager
+2026-11-12 10:22:25,053 [INFO] PluginManage:352 - Loaded plugin filemanager (category:base,tabindex:10)
+2026-11-12 10:22:25,056 [INFO] PluginManage:302 - Check plugin ipmanager
+2026-11-12 10:22:25,064 [INFO] PluginManage:352 - Loaded plugin ipmanager (category:base,tabindex:5)
+2026-11-12 10:22:25,064 [INFO] PluginManage:302 - Check plugin lpbam
+2026-11-12 10:22:25,072 [INFO] PluginManage:352 - Loaded plugin lpbam (category:base,tabindex:0)
+2026-11-12 10:22:25,072 [INFO] PluginManage:302 - Check plugin pinoutandconfiguration
+2026-11-12 10:22:25,078 [INFO] PluginManage:352 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2026-11-12 10:22:25,079 [INFO] PluginManage:302 - Check plugin pinoutconfig
+2026-11-12 10:22:25,124 [INFO] PluginManage:352 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2026-11-12 10:22:25,125 [INFO] PluginManage:302 - Check plugin power
+2026-11-12 10:22:25,141 [INFO] PluginManage:352 - Loaded plugin power (category:power,tabindex:4)
+2026-11-12 10:22:25,142 [INFO] PluginManage:302 - Check plugin projectmanager
+2026-11-12 10:22:25,167 [INFO] PluginManage:352 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2026-11-12 10:22:25,168 [INFO] PluginManage:302 - Check plugin thirdparty
+2026-11-12 10:22:25,325 [WARN] IntegrityCheckThread:78 - waiting for thirdparty lock release [integrity check]
+2026-11-12 10:22:25,326 [INFO] PluginManage:352 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2026-11-12 10:22:25,327 [INFO] IntegrityCheckThread:80 - entering critical section [integrity check]
+2026-11-12 10:22:25,327 [INFO] PluginManage:302 - Check plugin tools
+2026-11-12 10:22:25,331 [INFO] ThirdPartyUpdaterWithRetryManager:66 - Updater plugin not ready yet. [1/15]
+2026-11-12 10:22:25,336 [INFO] PluginManage:352 - Loaded plugin tools (category:base,tabindex:7)
+2026-11-12 10:22:25,336 [INFO] PluginManage:302 - Check plugin tutovideos
+2026-11-12 10:22:25,534 [INFO] PluginManage:352 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2026-11-12 10:22:25,534 [INFO] PluginManage:302 - Check plugin updater
+2026-11-12 10:22:25,553 [INFO] PluginManage:352 - Loaded plugin updater (category:base,tabindex:12)
+2026-11-12 10:22:25,555 [INFO] PluginManage:275 - PluginManage : Loaded plugins [14]
+2026-11-12 10:22:25,885 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.
+2026-11-12 10:22:26,098 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2026-11-12 10:22:26,175 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,176 [INFO] PluginManager:213 - loadIPPluginJar : add mdma
+2026-11-12 10:22:26,182 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,182 [INFO] PluginManager:213 - loadIPPluginJar : add freertos
+2026-11-12 10:22:26,186 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,186 [INFO] PluginManager:213 - loadIPPluginJar : add gic
+2026-11-12 10:22:26,192 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,193 [INFO] PluginManager:213 - loadIPPluginJar : add adc
+2026-11-12 10:22:26,194 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,194 [INFO] PluginManager:213 - loadIPPluginJar : add gtzc
+2026-11-12 10:22:26,195 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,195 [INFO] PluginManager:213 - loadIPPluginJar : add quadspi
+2026-11-12 10:22:26,196 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,197 [INFO] PluginManager:213 - loadIPPluginJar : add aes
+2026-11-12 10:22:26,198 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,198 [INFO] PluginManager:213 - loadIPPluginJar : add pdm2pcm
+2026-11-12 10:22:26,199 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,200 [INFO] PluginManager:213 - loadIPPluginJar : add hash
+2026-11-12 10:22:26,202 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,202 [INFO] PluginManager:213 - loadIPPluginJar : add tim
+2026-11-12 10:22:26,203 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,204 [INFO] PluginManager:213 - loadIPPluginJar : add tsc
+2026-11-12 10:22:26,205 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,205 [INFO] PluginManager:213 - loadIPPluginJar : add ts
+2026-11-12 10:22:26,207 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,207 [INFO] PluginManager:213 - loadIPPluginJar : add can
+2026-11-12 10:22:26,209 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,210 [INFO] PluginManager:213 - loadIPPluginJar : add dma3
+2026-11-12 10:22:26,212 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,212 [INFO] PluginManager:213 - loadIPPluginJar : add dfsdm
+2026-11-12 10:22:26,214 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,215 [INFO] PluginManager:213 - loadIPPluginJar : add spi
+2026-11-12 10:22:26,217 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,217 [INFO] PluginManager:213 - loadIPPluginJar : add gfxmmu
+2026-11-12 10:22:26,218 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,218 [INFO] PluginManager:213 - loadIPPluginJar : add genericplugin
+2026-11-12 10:22:26,219 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,221 [INFO] PluginManager:213 - loadIPPluginJar : add cryp
+2026-11-12 10:22:26,228 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,233 [INFO] PluginManager:213 - loadIPPluginJar : add gpio
+2026-11-12 10:22:26,236 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,236 [INFO] PluginManager:213 - loadIPPluginJar : add comp
+2026-11-12 10:22:26,239 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,239 [INFO] PluginManager:213 - loadIPPluginJar : add tracer_emb
+2026-11-12 10:22:26,241 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,241 [INFO] PluginManager:213 - loadIPPluginJar : add openamp
+2026-11-12 10:22:26,244 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,244 [INFO] PluginManager:213 - loadIPPluginJar : add stm32_wpan
+2026-11-12 10:22:26,249 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,256 [INFO] PluginManager:213 - loadIPPluginJar : add plateformsettings
+2026-11-12 10:22:26,259 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,259 [INFO] PluginManager:213 - loadIPPluginJar : add ipddr
+2026-11-12 10:22:26,261 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,261 [INFO] PluginManager:213 - loadIPPluginJar : add usart
+2026-11-12 10:22:26,262 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,263 [INFO] PluginManager:213 - loadIPPluginJar : add ltdc
+2026-11-12 10:22:26,265 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,265 [INFO] PluginManager:213 - loadIPPluginJar : add nvic
+2026-11-12 10:22:26,266 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,266 [INFO] PluginManager:213 - loadIPPluginJar : add fatfs
+2026-11-12 10:22:26,271 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,272 [INFO] PluginManager:213 - loadIPPluginJar : add linkedlist
+2026-11-12 10:22:26,277 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,278 [INFO] PluginManager:213 - loadIPPluginJar : add dma
+2026-11-12 10:22:26,281 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,282 [INFO] PluginManager:213 - loadIPPluginJar : add fmc
+2026-11-12 10:22:26,283 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,284 [INFO] PluginManager:213 - loadIPPluginJar : add i2s
+2026-11-12 10:22:26,285 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,285 [INFO] PluginManager:213 - loadIPPluginJar : add ucpd
+2026-11-12 10:22:26,286 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,287 [INFO] PluginManager:213 - loadIPPluginJar : add lorawan
+2026-11-12 10:22:26,288 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,289 [INFO] PluginManager:213 - loadIPPluginJar : add opamp
+2026-11-12 10:22:26,292 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,293 [INFO] PluginManager:213 - loadIPPluginJar : add touchsensing
+2026-11-12 10:22:26,295 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,295 [INFO] PluginManager:213 - loadIPPluginJar : add i2c
+2026-11-12 10:22:26,297 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,299 [INFO] PluginManager:213 - loadIPPluginJar : add resmgrutility
+2026-11-12 10:22:26,302 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,304 [INFO] PluginManager:213 - loadIPPluginJar : add sai
+2026-11-12 10:22:26,306 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:26,307 [INFO] PluginManager:213 - loadIPPluginJar : add usbx
+2026-11-12 10:22:26,591 [FATAL] Updater:297 - Updater called before beeing initialized
+2026-11-12 10:22:26,808 [FATAL] Updater:297 - Updater called before beeing initialized
+2026-11-12 10:22:26,822 [INFO] DbMcusAds:47 - JSON generation date=Thu Sep 30 09:55:09 MSK 2021 (1632984909247)
+2026-11-12 10:22:26,823 [FATAL] Updater:297 - Updater called before beeing initialized
+2026-11-12 10:22:27,804 [WARN] DetailPanel:320 - Failed to get advertising image, set to default
+2026-11-12 10:22:28,015 [FATAL] Updater:297 - Updater called before beeing initialized
+2026-11-12 10:22:28,040 [FATAL] Updater:297 - Updater called before beeing initialized
+2026-11-12 10:22:28,041 [FATAL] Updater:297 - Updater called before beeing initialized
+2026-11-12 10:22:28,042 [WARN] DetailPanel:320 - Failed to get advertising image, set to default
+2026-11-12 10:22:28,071 [FATAL] Updater:297 - Updater called before beeing initialized
+2026-11-12 10:22:28,202 [INFO] Updater:1026 - Updater Version found : 6.5.0
+2026-11-12 10:22:28,219 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913
+2026-11-12 10:22:28,335 [INFO] ThirdPartyUpdaterWithRetryManager:66 - Updater plugin not ready yet. [2/15]
+2026-11-12 10:22:29,100 [ERROR] ServerAccessManage:982 - Problem, Http access forbiden
+2026-11-12 10:22:29,110 [INFO] MainUpdater:2729 - connection check result : 22
+2026-11-12 10:22:29,111 [INFO] MainUpdater:276 - Updater Check For Update Now.
+2026-11-12 10:22:29,112 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2026-11-12 10:22:29,381 [INFO] CheckServerUpdateThread:115 - End of CheckServer Thread
+2026-11-12 10:22:29,599 [ERROR] ServerAccessManage:982 - Problem, Http access forbiden
+2026-11-12 10:22:29,602 [INFO] MainUpdater:2729 - connection check result : 22
+2026-11-12 10:22:30,456 [INFO] MicroXplorer:447 - Change Database Path : 
+2026-11-12 10:22:30,457 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2026-11-12 10:22:30,460 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2026-11-12 10:22:31,485 [INFO] ThirdParty:925 - Integrity check success = true
+2026-11-12 10:22:31,486 [INFO] IntegrityCheckThread:94 - exiting critical section [integrity check]
+2026-11-12 10:22:31,486 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2026-11-12 10:22:31,486 [INFO] ThirdParty:825 - entering critical section [close project]
+2026-11-12 10:22:31,489 [INFO] ThirdParty:835 - exiting critical section [close project]
+2026-11-12 10:22:31,494 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2026-11-12 10:22:31,506 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 203411672 Bytes (268435456)
+2026-11-12 10:22:31,510 [INFO] MicroXplorer:447 - Change Database Path : 
+2026-11-12 10:22:31,511 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2026-11-12 10:22:31,511 [INFO] OpenFileManager:303 - Change cursor
+2026-11-12 10:22:31,582 [INFO] Mcu:1893 - Initializing MCU STM32F427V(G-I)Tx STM32F427VITx STM32F427VIT6
+2026-11-12 10:22:33,525 [INFO] Context:599 - Trying to add GPIOservice into a context  which must be forbidden
+2026-11-12 10:22:34,382 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2026-11-12 10:22:34,384 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2026-11-12 10:22:34,385 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2026-11-12 10:22:34,385 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2026-11-12 10:22:34,386 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2026-11-12 10:22:34,388 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,389 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,389 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,389 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,389 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,390 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,390 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,391 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,391 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,391 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,391 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,392 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,392 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,392 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,392 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,394 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,394 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,394 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,394 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,395 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,395 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,396 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,396 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,396 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,396 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,397 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,397 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,398 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,398 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,398 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,399 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,399 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,399 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:22:34,407 [INFO] ThirdPartyModel:282 - Start build external matchings
+2026-11-12 10:22:34,410 [INFO] ThirdPartyModel:295 - End build external matchings
+2026-11-12 10:22:34,429 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2026-11-12 10:22:34,438 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (12500000)
+2026-11-12 10:22:34,809 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 216829272 Bytes (268435456)
+2026-11-12 10:22:35,410 [INFO] ApiDb:567 - Connected to CubeFinder SQLite database (/Users/nozhegoff/.stmcufinder/plugins/mcufinder/mcu/cube-finder-db.db)
+2026-11-12 10:22:35,458 [INFO] ApiDb:654 - CubeFinder database Data Model version=2.1
+2026-11-12 10:22:35,458 [INFO] ApiDb:655 - CubeFinder database Configuration version=3.0.42
+2026-11-12 10:22:35,459 [INFO] ApiDb:656 - CubeFinder database generation date=2026-06-23 (1782213372)
+2026-11-12 10:22:35,460 [INFO] ApiDb:657 - CubeFinder database FW Pack versions=[FP-ATR-ASTRA1_V2.0.0, FP-SNS-FLIGHT1_V5.1.0, FP-SNS-MOTENV1_V5.1.0, FP-SNS-MOTENVWB1_V1.5.0, FP-SNS-SMARTAG2_V1.2.0, FP-SNS-STBOX1_V2.1.0, STM32Cube_FW_C0_V1.4.0, STM32Cube_FW_F4_V1.28.3, STM32Cube_FW_F7_V1.17.4, STM32Cube_FW_G0_V1.6.3, STM32Cube_FW_G4_V1.6.2, STM32Cube_FW_H5_V1.7.0, STM32Cube_FW_H7RS_V1.3.0, STM32Cube_FW_H7_V1.13.0, STM32Cube_FW_L0_V1.12.2, STM32Cube_FW_L4_V1.18.2, STM32Cube_FW_L5_V1.6.0, STM32Cube_FW_N6_V1.4.0, STM32Cube_FW_U0_V1.3.0, STM32Cube_FW_U3_V1.4.0, STM32Cube_FW_U5_V1.9.0, STM32Cube_FW_WB0_V1.5.0, STM32Cube_FW_WBA_V1.10.0, STM32Cube_FW_WB_V1.24.0, STM32Cube_FW_WL3_V1.5.0, STM32Cube_FW_WL_V1.6.0, X-CUBE-ALGOBUILD_V1.5.0, X-CUBE-ALS_V1.0.2, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V2.0.0, X-CUBE-AZRTOS-H7RS_V1.1.0, X-CUBE-AZRTOS-H7_V3.5.0, X-CUBE-AZRTOS-L4_V2.0.0, X-CUBE-AZRTOS-L5_V2.0.0, X-CUBE-AZRTOS-WB_V2.0.0, X-CUBE-AZRTOS-WL_V2.0.0, X-CUBE-BLE1_V7.1.0, X-CUBE-BLE2_V3.3.0, X-CUBE-BLEMGR_V4.1.0, X-CUBE-EEPRMA1_V5.2.0, X-CUBE-FREERTOS_V1.5.0, X-CUBE-GNSS1_V7.1.1, X-CUBE-MEMS1_V12.1.0, X-CUBE-NFC4_V3.0.0, X-CUBE-NFC7_V2.0.0, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-ST67W61_V1.3.0, X-CUBE-SUBG2_V5.0.0, X-CUBE-TOF1_V3.4.3]
+2026-11-12 10:22:36,924 [INFO] ApiDb:212 - Found 97 in-development CPN: [NUCLEO-C031C6, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L4R5QGI6STR, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q]
+2026-11-12 10:22:36,931 [INFO] DbMcus:201 - Found 5219 MCUs, 5066 are supported
+2026-11-12 10:22:36,937 [INFO] ApiDb:407 - Load user favorites file /Users/nozhegoff/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2026-11-12 10:22:36,938 [INFO] ApiDb:411 - User favorites MCUs=[]
+2026-11-12 10:22:36,939 [INFO] DbMcus:207 - Set 0 / 0 favorites MCUs
+2026-11-12 10:22:37,038 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2026-11-12 10:22:37,038 [INFO] ThirdParty:787 - entering critical section [change project]
+2026-11-12 10:22:37,039 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2026-11-12 10:22:37,039 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2026-11-12 10:22:37,040 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2026-11-12 10:22:37,040 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2026-11-12 10:22:37,040 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2026-11-12 10:22:37,040 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2026-11-12 10:22:37,041 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2026-11-12 10:22:37,041 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2026-11-12 10:22:37,042 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2026-11-12 10:22:37,042 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2026-11-12 10:22:37,042 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2026-11-12 10:22:37,042 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2026-11-12 10:22:37,042 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2026-11-12 10:22:37,043 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2026-11-12 10:22:37,044 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2026-11-12 10:22:37,044 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2026-11-12 10:22:37,044 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2026-11-12 10:22:37,045 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2026-11-12 10:22:37,045 [INFO] ThirdParty:793 - exiting critical section [change project]
+2026-11-12 10:22:38,067 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2026-11-12 10:22:38,109 [INFO] PinOutPanel:1465 - setPackage(STM32F427VITx,LQFP100)
+2026-11-12 10:22:39,396 [INFO] UtilMem:74 - Before build in PCC Used Memory: 181920824 Bytes (268435456)
+2026-11-12 10:22:40,947 [INFO] UtilMem:74 - After build in PCC Used Memory: 190685736 Bytes (268435456)
+2026-11-12 10:22:41,026 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,028 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,028 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,029 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,030 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,031 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,032 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,034 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,036 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,036 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,037 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,037 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,038 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,041 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,041 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,041 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,042 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,042 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,043 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,043 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,043 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,043 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,044 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,044 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,044 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,046 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,047 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,047 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,047 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,048 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,048 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,048 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,049 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,049 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,049 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,049 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,049 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,050 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,050 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,051 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,051 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,051 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,051 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,052 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,052 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,052 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,052 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,052 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,053 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,053 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,053 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,053 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,054 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,054 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,054 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,055 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,055 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,055 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,057 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,058 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,058 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,058 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,061 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:22:41,102 [INFO] ApiDbMcu:488 - Load IP Config File for PDM2PCM
+2026-11-12 10:22:41,442 [INFO] OpenFileManager:323 - Restore cursor
+2026-11-12 10:25:58,598 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 175699024 Bytes (300941312)
+2026-11-12 10:25:59,662 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 262913976 Bytes (300941312)
+2026-11-12 10:26:00,191 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: TIM1_8
+2026-11-12 10:26:00,193 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2026-11-12 10:26:00,194 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2026-11-12 10:26:00,195 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: I2C
+2026-11-12 10:26:00,196 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2026-11-12 10:26:00,197 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: USART
+2026-11-12 10:26:00,198 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2026-11-12 10:26:00,199 [INFO] CodeGenerator:681 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.5.0.202202251913//db/
+2026-11-12 10:26:00,801 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/license.tmp_save
+2026-11-12 10:26:01,270 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/license.tmp
+2026-11-12 10:26:01,437 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/gpio.c_save
+2026-11-12 10:26:01,615 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/gpio.c
+2026-11-12 10:26:01,617 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/gpio.h_save
+2026-11-12 10:26:01,715 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/gpio.h
+2026-11-12 10:26:02,077 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/i2c.c_save
+2026-11-12 10:26:02,274 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/i2c.c
+2026-11-12 10:26:02,276 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/i2c.h_save
+2026-11-12 10:26:02,384 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/i2c.h
+2026-11-12 10:26:02,392 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/tim.c_save
+2026-11-12 10:26:02,519 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/tim.c
+2026-11-12 10:26:02,521 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/tim.h_save
+2026-11-12 10:26:02,580 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/tim.h
+2026-11-12 10:26:02,586 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/usart.c_save
+2026-11-12 10:26:02,860 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/usart.c
+2026-11-12 10:26:02,862 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/usart.h_save
+2026-11-12 10:26:02,972 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/usart.h
+2026-11-12 10:26:03,030 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_it.c_save
+2026-11-12 10:26:03,329 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_it.c
+2026-11-12 10:26:03,339 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_it.h_save
+2026-11-12 10:26:03,416 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_it.h
+2026-11-12 10:26:03,433 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_hal_msp.c_save
+2026-11-12 10:26:03,532 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/stm32f4xx_hal_msp.c
+2026-11-12 10:26:03,534 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/system.tmp_save
+2026-11-12 10:26:03,590 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/MXTmpFiles/system.tmp
+2026-11-12 10:26:03,596 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_hal_conf.h_save
+2026-11-12 10:26:03,689 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/stm32f4xx_hal_conf.h
+2026-11-12 10:26:03,820 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/main.h_save
+2026-11-12 10:26:03,970 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Inc/main.h
+2026-11-12 10:26:03,973 [INFO] CodeEngine:237 - oldGeneratedFile, /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/main.c_save
+2026-11-12 10:26:04,219 [INFO] CodeEngine:261 - Generated code: /Users/nozhegoff/University/Embedded-systems/Lab1-stm32-1.1/Core/Src/main.c
+2026-11-12 10:26:05,029 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 66mS.
+2026-11-12 10:26:05,068 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2026-11-12 10:26:05,502 [INFO] ConfigFileManager:1287 - The Die is : DIE419
+2026-11-12 10:26:05,541 [INFO] ApiDbMcu:488 - Load IP Config File for FATFS
+2026-11-12 10:26:05,552 [INFO] ApiDbMcu:488 - Load IP Config File for FREERTOS
+2026-11-12 10:26:05,554 [INFO] ApiDbMcu:488 - Load IP Config File for LIBJPEG
+2026-11-12 10:26:05,576 [INFO] ApiDbMcu:488 - Load IP Config File for LWIP
+2026-11-12 10:26:05,588 [INFO] ApiDbMcu:488 - Load IP Config File for MBEDTLS
+2026-11-12 10:26:05,603 [INFO] ApiDbMcu:488 - Load IP Config File for USB_DEVICE
+2026-11-12 10:26:05,607 [INFO] ApiDbMcu:488 - Load IP Config File for USB_HOST
+2026-11-12 10:26:08,796 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 3720mS.
+2026-11-12 10:26:08,820 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 3mS.
+2026-11-12 10:26:08,836 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2026-11-12 10:28:18,793 [ERROR] ServerAccessManage:982 - Problem, Http access forbiden
+2026-11-12 10:28:18,808 [INFO] MainUpdater:2729 - connection check result : 22
+2026-11-12 10:28:19,398 [INFO] MicroXplorer:447 - Change Database Path : 
+2026-11-12 10:28:19,399 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2026-11-12 10:28:19,410 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2026-11-12 10:28:19,411 [INFO] ThirdParty:825 - entering critical section [close project]
+2026-11-12 10:28:19,411 [INFO] ThirdParty:835 - exiting critical section [close project]
+2026-11-12 10:28:19,414 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2026-11-12 10:28:19,422 [WARN] IpParametersView:144 - Warning: This peripheral hasn't parameters
+2026-11-12 10:28:19,428 [WARN] MainPanel:249 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2026-11-12 10:28:19,437 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 251647208 Bytes (633339904)
+2026-11-12 10:28:19,438 [INFO] MicroXplorer:447 - Change Database Path : 
+2026-11-12 10:28:19,438 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2026-11-12 10:28:19,438 [INFO] OpenFileManager:303 - Change cursor
+2026-11-12 10:28:19,488 [INFO] RulesReader:57 - Compatibility file has been processed (281 Rules)
+2026-11-12 10:28:19,496 [INFO] Mcu:1893 - Initializing MCU STM32F427V(G-I)Tx STM32F427VITx STM32F427VIT6
+2026-11-12 10:28:20,791 [INFO] Context:599 - Trying to add GPIOservice into a context  which must be forbidden
+2026-11-12 10:28:21,215 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2026-11-12 10:28:21,217 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2026-11-12 10:28:21,217 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2026-11-12 10:28:21,217 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2026-11-12 10:28:21,218 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2026-11-12 10:28:21,219 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,220 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,220 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,220 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,220 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,220 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,221 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,221 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,221 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,221 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,221 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,222 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,222 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,222 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,222 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,222 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,223 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,223 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,223 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,223 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,226 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,226 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,226 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,226 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,227 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,227 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,227 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,227 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,227 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,228 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,228 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,228 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,228 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2026-11-12 10:28:21,232 [INFO] ThirdPartyModel:282 - Start build external matchings
+2026-11-12 10:28:21,237 [INFO] ThirdPartyModel:295 - End build external matchings
+2026-11-12 10:28:21,245 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2026-11-12 10:28:21,247 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (12500000)
+2026-11-12 10:28:21,548 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 444775680 Bytes (633339904)
+2026-11-12 10:28:21,661 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2026-11-12 10:28:21,661 [INFO] ThirdParty:787 - entering critical section [change project]
+2026-11-12 10:28:21,661 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2026-11-12 10:28:21,662 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2026-11-12 10:28:21,662 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2026-11-12 10:28:21,662 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2026-11-12 10:28:21,662 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2026-11-12 10:28:21,663 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2026-11-12 10:28:21,663 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2026-11-12 10:28:21,663 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2026-11-12 10:28:21,663 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2026-11-12 10:28:21,663 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2026-11-12 10:28:21,664 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2026-11-12 10:28:21,664 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2026-11-12 10:28:21,664 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2026-11-12 10:28:21,664 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2026-11-12 10:28:21,664 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2026-11-12 10:28:21,664 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2026-11-12 10:28:21,665 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2026-11-12 10:28:21,665 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2026-11-12 10:28:21,667 [INFO] ThirdParty:793 - exiting critical section [change project]
+2026-11-12 10:28:22,117 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2026-11-12 10:28:22,121 [INFO] PinOutPanel:1465 - setPackage(STM32F427VITx,LQFP100)
+2026-11-12 10:28:22,741 [INFO] UtilMem:74 - Before build in PCC Used Memory: 329178840 Bytes (633339904)
+2026-11-12 10:28:23,122 [INFO] UtilMem:74 - After build in PCC Used Memory: 377413336 Bytes (633339904)
+2026-11-12 10:28:23,151 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,153 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,153 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,154 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,154 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,154 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,155 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,155 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,155 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,155 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,156 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,156 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,156 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,157 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,157 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,158 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,158 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,158 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,159 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,159 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,159 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,160 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,160 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,160 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,160 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,161 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,161 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,161 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,161 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,162 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,162 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,162 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,163 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,163 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,163 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,163 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,165 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,166 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,166 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,166 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,166 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,167 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,167 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,167 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,167 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,168 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,168 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,168 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,168 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,169 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,169 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,169 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,169 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,170 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,170 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,170 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,171 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,171 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,172 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,172 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,172 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,173 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,173 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2026-11-12 10:28:23,192 [INFO] ApiDbMcu:488 - Load IP Config File for PDM2PCM
+2026-11-12 10:28:23,262 [INFO] OpenFileManager:323 - Restore cursor
+2026-11-12 10:57:17,946 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,528 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,551 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,562 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,575 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,580 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,586 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,590 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,596 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,602 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,612 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,621 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:28,625 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,277 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,285 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,294 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,301 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,307 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,313 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,319 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,325 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,332 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,336 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,341 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:57:52,347 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:20,736 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,466 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,471 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,476 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,491 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,495 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,498 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,511 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,515 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,520 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,525 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,529 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 10:58:23,532 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:03,698 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,809 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,816 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,819 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,822 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,826 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,830 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,836 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,840 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,849 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,857 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,860 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:00:10,865 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,197 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,234 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,244 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,249 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,255 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,259 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,264 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,272 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,276 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,283 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,286 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:47,289 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:16:59,564 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,409 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,413 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,416 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,418 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,421 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,426 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,430 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,435 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,438 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,467 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,472 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:05,476 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:24,112 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:29,990 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:29,995 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:29,997 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,004 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,009 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,012 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,019 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,023 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,030 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,036 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,039 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:30,045 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:17:59,121 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,173 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,184 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,188 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,191 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,195 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,203 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,216 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,221 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,225 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,232 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:18:02,236 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:52,788 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,045 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,057 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,060 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,064 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,069 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,074 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,080 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,084 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,086 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,090 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,093 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:32:57,096 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:21,371 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,617 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,621 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,624 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,628 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,631 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,634 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,637 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,641 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,650 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,662 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,669 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:33:29,675 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,892 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,902 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,905 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,913 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,961 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,965 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,968 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,972 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,977 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,984 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,988 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:37:51,991 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:47,300 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,157 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,163 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,167 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,173 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,179 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,184 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,187 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,190 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,192 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,195 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,201 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:49:49,205 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:42,095 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,298 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,303 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,308 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,313 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,316 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,321 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,328 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,331 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,337 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,339 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,342 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 
+2026-11-12 11:57:44,344 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] 

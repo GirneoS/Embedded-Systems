@@ -1,0 +1,2 @@
+../Core/Src/compass_math.c:5:6:Compass_Scale	32	static
+../Core/Src/compass_math.c:18:9:Compass_Heading	32	static

@@ -1,0 +1,5 @@
+../Core/Src/wire_protocol.c:5:10:Wire_Crc16	32	static
+../Core/Src/wire_protocol.c:22:8:Wire_Encode	40	static
+../Core/Src/wire_protocol.c:35:12:HexDigit	16	static
+../Core/Src/wire_protocol.c:43:6:Wire_Decode	40	static
+../Core/Src/wire_protocol.c:68:6:Wire_UInt	32	static

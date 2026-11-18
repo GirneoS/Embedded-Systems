@@ -1,0 +1,5 @@
+../Core/Src/magnetometer.c:7:13:Read	32	static
+../Core/Src/magnetometer.c:13:13:Write	32	static
+../Core/Src/magnetometer.c:19:6:Mag_Init	24	static
+../Core/Src/magnetometer.c:66:13:Mag_Name	16	static
+../Core/Src/magnetometer.c:73:11:Mag_Read	32	static

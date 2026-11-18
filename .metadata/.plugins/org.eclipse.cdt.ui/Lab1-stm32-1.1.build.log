@@ -1,10 +1,10 @@
-11:31:18 **** Incremental Build of configuration Debug for project Lab1-stm32-1.1 ****
+11:57:43 **** Incremental Build of configuration Debug for project Lab1-stm32-1.1 ****
 make -j11 all 
 arm-none-eabi-size   Lab1-stm32-1.1.elf 
    text	   data	    bss	    dec	    hex	filename
-  15084	    216	   1848	  17148	   42fc	Lab1-stm32-1.1.elf
+  34324	    132	   3572	  38028	   948c	Lab1-stm32-1.1.elf
 Finished building: default.size.stdout
  
 
-11:31:18 Build Finished. 0 errors, 0 warnings. (took 201ms)
+11:57:44 Build Finished. 0 errors, 0 warnings. (took 178ms)
 
